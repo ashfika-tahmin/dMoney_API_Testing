@@ -39,3 +39,7 @@ npx newman run .\collection\assignment_on_API_testing.postman_collection.json
 
 ## Documentation
 https://documenter.getpostman.com/view/59433845/2sBYHYuJ16
+
+## Attachment
+<img width="837" height="840" alt="NewMan Report" src="https://github.com/user-attachments/assets/31bdb172-3d3f-460a-903d-90f7bb87a74a" />
+<img width="1397" height="797" alt="NewMan-1" src="https://github.com/user-attachments/assets/faea69db-193a-44c9-8712-3d2fbc52bffb" />
